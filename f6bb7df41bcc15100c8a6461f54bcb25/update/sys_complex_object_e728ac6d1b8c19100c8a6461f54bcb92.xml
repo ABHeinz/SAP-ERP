@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD2728ac6d6d8c1910a6fe294c79600492</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>f6bb7df41bcc15100c8a6461f54bcb25</scope_name>
+        <serialized_content>{"FlowDesigner:FD2728ac6d6d8c1910a6fe294c79600492":{"$COCollectionField":[{"Journal_Entry_Line":{"cost_center":"String","cost_center.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Cost Center\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"8b7bd0fa-dfdd-441c-b275-fda88e942820\"}"},"credit":"String","credit.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Credit\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\",\"uiUniqueId\":\"fd3d6b1d-36ee-4a1b-ac55-d682d747b638\"}"},"debit":"String","debit.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Debit\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"11c67200-33d1-43e8-9145-058e5e1f8593\"}"},"gl_account":"String","gl_account.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"GL Account\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"44327dcb-acbc-4f7f-8d68-dfa0e3bf301c\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Journal Entry Lines\",\"mandatory\":\"false\",\"child_name\":\"Journal_Entry_Line\",\"uiUniqueId\":\"c7bf185e-979f-46a0-8877-befa3223ffe1\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD2728ac6d6d8c1910a6fe294c79600492\",\"child_label\":\"Journal Entry Line\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"4\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"37985040-d517-4d03-aa22-72b0c0392dae\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD2728ac6d6d8c1910a6fe294c79600492.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Journal Entry Lines\",\"mandatory\":\"false\",\"child_name\":\"Journal_Entry_Line\",\"uiUniqueId\":\"c7bf185e-979f-46a0-8877-befa3223ffe1\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD2728ac6d6d8c1910a6fe294c79600492\",\"child_label\":\"Journal Entry Line\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"4\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"37985040-d517-4d03-aa22-72b0c0392dae\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-12 10:40:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e728ac6d1b8c19100c8a6461f54bcb92</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FD2728ac6d6d8c1910a6fe294c79600492</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SAP ERP" source="x_snc_sap_erp">f6bb7df41bcc15100c8a6461f54bcb25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAP ERP">f6bb7df41bcc15100c8a6461f54bcb25</sys_scope>
+        <sys_update_name>sys_complex_object_e728ac6d1b8c19100c8a6461f54bcb92</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-12 10:43:06</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
